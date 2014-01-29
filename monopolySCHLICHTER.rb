@@ -29,6 +29,7 @@ puts cheap_property[:rent]
 #A4: Your code goes here:
 puts 180
 
+
 #Q5: How many "good" special squares are there?
 #A5: Your code goes here:
 puts special_squares[:good].count
